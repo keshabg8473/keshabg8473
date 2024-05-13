@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm keshabg8473</h1>
-<h3 align="center">A passionate frontend developer from assam</h3>
+<h3 align="center">A passionate in frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://user">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshabg8473&label=Profile%20views&color=0e75b6&style=flat" alt="keshabg8473" /> </p>
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **HTML,CSS and bootstrap**
 
 - 📫 How to reach me **bjems6094@gamil.com**
 
